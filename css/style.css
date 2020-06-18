@@ -1,0 +1,42 @@
+body {
+	background-color: #E0F3E6;
+	margin-left: 30px;
+	margin-right: 100px;
+}
+header {
+	margin-top: 30px;
+}
+
+nav {
+	margin-bottom: 120px;
+}
+
+h1 {
+	color: #175177;
+	font-family: monospace;
+}
+
+h2 {
+	color: #175177;
+	font-family: monospace;
+}
+
+p {
+	font-size: 18px;
+	color: #063D60;
+	font-family: monospace;
+}
+
+h4 {
+	font-size: 18px;
+	color: #063D60;
+	font-family: monospace;
+}
+
+a {
+	font-size: 18px;
+	color: #063D60;
+	font-family: monospace;
+}
+
+
